@@ -3,7 +3,7 @@
 # 🌸 Olá, eu sou Guilherme Dias de Almeida! 👋  
 ### Desenvolvedor Back-End | Apaixonado por Front-End e Projetos Web  
 
-![Banner](https://images.unsplash.com/photo-1541592106381-7f24a236c4a7?fit=crop&w=800&h=200&blend=ffb6c1&sat=-100&exp=15)  
+![Banner](https://media.giphy.com/media/l41lX9H9cDBsB82iY/giphy.gif)  
 
 ✨ Bem-vindo ao meu perfil GitHub! ✨  
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em projetos web e aplicativos, sempre buscando criar soluções funcionais e bonitas.  
@@ -38,7 +38,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em
 ## 💼 Projetos em Destaque
 
 <div align="center">
-  
+
 🌟 **[Game Website 2.0](https://github.com/guiddealmd/game-website-2.0)**  
 CRUD completo em PHP com integração a banco de dados, autenticação de usuários e carrinho de compras.  
 
@@ -52,9 +52,11 @@ Aplicativo Ionic + Angular para cadastro e gerenciamento de produtos usando Fire
 ## 📬 Contato & Conexões
 
 <div align="center">
-  
+
 ✉️ E-mail: [guilhermeddealmeida@gmail.com](mailto:guilhermeddealmeida@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/guilherme-dias-de-almeida](https://www.linkedin.com/in/guilherme-dias-de-almeida-572846256/)  
 🌐 GitHub: [github.com/guiddealmd](https://github.com/guiddealmd)  
+
+</div>
 
 </div>

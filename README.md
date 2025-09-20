@@ -3,7 +3,8 @@
 # 🌸 Olá, eu sou Guilherme Dias de Almeida! 👋  
 ### Desenvolvedor Back-End | Apaixonado por Front-End e Projetos Web  
 
-![Banner](https://24.media.tumblr.com/aa980da52a100d7b1c0c25c8a0a1e19a/tumblr_n2os54fVdZ1rveihgo1_400.gif)  
+![Banner](<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/5ec3ccd2-7272-4b8f-8451-9b26418eeaeb" />
+)  
 
 ✨ Bem-vindo ao meu perfil GitHub! ✨  
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em projetos web e aplicativos, sempre buscando criar soluções funcionais e bonitas.  
